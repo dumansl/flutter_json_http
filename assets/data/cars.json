@@ -1,0 +1,182 @@
+[
+    {
+        "car_name" : "Mercedes",
+        "country" : "Germany",
+        "foundation_year" : 1920,
+        "model" : [
+            {
+                "model_name": "A series",
+                "price" : 15000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "C series",
+                "price" : 25000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Honda",
+        "country" : "Japanese",
+        "foundation_year" : 1960,
+        "model" : [
+            {
+                "model_name": "Civic",
+                "price" : 12000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "Jazz",
+                "price" : 10000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Mercedes",
+        "country" : "Germany",
+        "foundation_year" : 1920,
+        "model" : [
+            {
+                "model_name": "A series",
+                "price" : 15000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "C series",
+                "price" : 25000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Honda",
+        "country" : "Japanese",
+        "foundation_year" : 1960,
+        "model" : [
+            {
+                "model_name": "Civic",
+                "price" : 12000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "Jazz",
+                "price" : 10000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Mercedes",
+        "country" : "Germany",
+        "foundation_year" : 1920,
+        "model" : [
+            {
+                "model_name": "A series",
+                "price" : 15000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "C series",
+                "price" : 25000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Honda",
+        "country" : "Japanese",
+        "foundation_year" : 1960,
+        "model" : [
+            {
+                "model_name": "Civic",
+                "price" : 12000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "Jazz",
+                "price" : 10000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Mercedes",
+        "country" : "Germany",
+        "foundation_year" : 1920,
+        "model" : [
+            {
+                "model_name": "A series",
+                "price" : 15000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "C series",
+                "price" : 25000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Honda",
+        "country" : "Japanese",
+        "foundation_year" : 1960,
+        "model" : [
+            {
+                "model_name": "Civic",
+                "price" : 12000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "Jazz",
+                "price" : 10000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Mercedes",
+        "country" : "Germany",
+        "foundation_year" : 1920,
+        "model" : [
+            {
+                "model_name": "A series",
+                "price" : 15000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "C series",
+                "price" : 25000,
+                "gasoline" : false
+            }
+
+        ]
+    },
+    {
+        "car_name" : "Honda",
+        "country" : "Japanese",
+        "foundation_year" : 1960,
+        "model" : [
+            {
+                "model_name": "Civic",
+                "price" : 12000,
+                "gasoline" : true
+            },
+            {
+                "model_name": "Jazz",
+                "price" : 10000,
+                "gasoline" : false
+            }
+
+        ]
+    }
+]
